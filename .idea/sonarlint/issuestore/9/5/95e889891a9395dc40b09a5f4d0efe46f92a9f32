@@ -1,0 +1,19 @@
+
+x
+java:S1488"]Immediately return this expression instead of assigning it to the temporary variable "token".(ş½È’øÿÿÿÿ
+v
+java:S14881"`Immediately return this expression instead of assigning it to the temporary variable "username".(è¼¯«
+M
+java:S1874"2Remove this use of "setSubject"; it is deprecated.(¥¥ıÿÿÿÿ
+N
+java:S1874"3Remove this use of "setIssuedAt"; it is deprecated.(Ô£µïûÿÿÿÿ
+K
+java:S1874"5Remove this use of "setExpiration"; it is deprecated.(ğ±Š­
+J
+java:S1874-"5Remove this use of "setSigningKey"; it is deprecated.(×Øi
+Q
+java:S1874/"6Remove this use of "parseClaimsJws"; it is deprecated.(ëÙ–ºıÿÿÿÿ
+E
+java:S18740"/Remove this use of "getBody"; it is deprecated.(ÊÄ¿Ì
+J
+java:S18747"5Remove this use of "setSigningKey"; it is deprecated.(×Øi

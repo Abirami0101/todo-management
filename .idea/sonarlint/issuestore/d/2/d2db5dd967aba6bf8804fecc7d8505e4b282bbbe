@@ -1,0 +1,15 @@
+
+c
+java:S5738,"HRemove this call to a deprecated method, it has been marked for removal.(øþ­Ÿûÿÿÿÿ
+R
+java:S1611-"7Remove the parentheses around the "authorize" parameter(›±ðÖøÿÿÿÿ
+Q	java:S125."<This block of commented-out lines of code should be removed.(Àï¥
+V	java:S125G"<This block of commented-out lines of code should be removed.(­¦ýÿÿÿÿ
+[
+java:S1128"@Remove this unused import 'org.springframework.http.HttpMethod'.(Ê¨Ä¡øÿÿÿÿ
+e
+java:S1128"ORemove this unused import 'org.springframework.security.core.userdetails.User'.(–Ä€
+l
+java:S1128"VRemove this unused import 'org.springframework.security.core.userdetails.UserDetails'.(ÊÁ¥
+|
+java:S1128"aRemove this unused import 'org.springframework.security.provisioning.InMemoryUserDetailsManager'.(îŒúùÿÿÿÿ
